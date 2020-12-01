@@ -1,0 +1,10 @@
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\bin\Debug\KomodoProject_Console.exe.config
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\bin\Debug\KomodoProject_Console.exe
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\bin\Debug\KomodoProject_Console.pdb
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\bin\Debug\KomodoProject.dll
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\bin\Debug\KomodoProject.pdb
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\obj\Debug\KomodoProject_Console.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\obj\Debug\KomodoProject_Console.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\obj\Debug\KomodoProject_Console.csproj.CopyComplete
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\obj\Debug\KomodoProject_Console.exe
+C:\Users\rober\source\repos\KomodoProject\KomodoProject_Console\obj\Debug\KomodoProject_Console.pdb
